@@ -1,0 +1,26 @@
+{
+  "name": "jquery-dialog",
+  "version": "1.5.1",
+  "description": "jquery.fn.dialog 响应式对话框",
+  "keywords": [
+    "jquery",
+    "yquery",
+    "ydr",
+    "responsive",
+    "dialog"
+  ],
+  "author": {
+    "name":"cloudcome",
+    "email":"cloudcome@163.com"
+  },
+  "homepage": "https://ydr.me/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cloudcome/jquery-dialog"
+  },
+  "licenses": "MIT",
+  "spm": {
+    "main": "jquery-dialog.js",
+    "dependencies": {}
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "swfobject",
+  "repo": "spmjs/swfobject",
+  "description": "SWFObject is an easy-to-use and standards-friendly method to embed Flash content, which utilizes one small JavaScript file",
+  "version": "2.2.0",
+  "main": "swfobject.js",
+  "scripts": [
+    "swfobject.js"
+  ],
+  "files": [
+    "expressinstall.swf"
+  ]
+}

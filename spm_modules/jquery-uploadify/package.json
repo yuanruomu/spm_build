@@ -1,0 +1,25 @@
+{
+  "name": "jquery-uploadify",
+  "version": "3.2.1",
+  "description": "Upload File",
+  "keywords": [],
+  "homepage": "",
+  "author": "XUQ Eidt",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "licenses": "MIT",
+  "spm": {
+    "main": "uploadify.js",
+    "dependencies": {
+      "swfobject": "2.2.0"
+    },
+    "devDependencies": {
+      "expect.js": "0.3.1"
+    }
+  }
+}
