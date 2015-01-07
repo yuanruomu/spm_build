@@ -1,7 +1,7 @@
 {
-  "name": "jquery-uploadify",
-  "version": "3.2.1",
-  "description": "Upload File",
+  "name": "jquery-pagination",
+  "version": "1.5.0",
+  "description": "page",
   "keywords": [],
   "homepage": "",
   "author": "XUQ Edit",
@@ -14,9 +14,8 @@
   },
   "licenses": "MIT",
   "spm": {
-    "main": "uploadify.js",
+    "main": "pagination.js",
     "dependencies": {
-      "swfobject": "2.2.0"
     },
     "devDependencies": {
       "expect.js": "0.3.1"

@@ -1,10 +1,10 @@
 {
-  "name": "jquery-uploadify",
-  "version": "3.2.1",
-  "description": "Upload File",
+  "name": "jquery-nicescroll",
+  "version": "3.5.4",
+  "description": "scroll",
   "keywords": [],
   "homepage": "",
-  "author": "XUQ Edit",
+  "author": "noname",
   "repository": {
     "type": "git",
     "url": ""
@@ -14,9 +14,8 @@
   },
   "licenses": "MIT",
   "spm": {
-    "main": "uploadify.js",
+    "main": "nicescroll.js",
     "dependencies": {
-      "swfobject": "2.2.0"
     },
     "devDependencies": {
       "expect.js": "0.3.1"
